@@ -5,6 +5,7 @@
 * Computer Science student at the University of Strasbourg.
 * Musician, guitar player, keyboard player, and bass player.
 * Musicologist.
+* Coded in C, C#, Java, HTML/CSS, JavaScript, Python, .NET
 
 ## 🔧 What I'm Up To
 
@@ -55,6 +56,7 @@ It's the first permanent project, hosted online, for real users.
 * Étudiant en informatique à l'Université de Strasbourg.
 * Musicien, guitariste, claviériste et bassiste.
 * Musicologue.
+* J'ai codé en C, C#, Java, HTML/CSS, JavaScript, Python, .NET.
 
 ## 🔧 Ce sur quoi je travaille
 
