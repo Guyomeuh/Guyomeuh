@@ -1,16 +1,13 @@
-## Hi there 👋
+## 📖 About Me
+- Computer Science student at the University of Strasbourg.
+- Musician, Guitar player, keyboard player and bass player
+- Musicologist
 
-<!--
-**Guyomeuh/Guyomeuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What i'm up to
+- Currently working on four projects :
+```yaml
+  - OOP version of the game Inscrpytion in Java
+  - Network simulator in C
+  - Managing tool inspired by StarGate in .NET
+  - Discord bot handling a RPG server in Python
+```
